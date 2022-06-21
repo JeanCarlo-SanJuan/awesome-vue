@@ -1155,7 +1155,7 @@
 - [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
 - [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool.
 - [CryptoTracks](https://cryptotracks.io) - Unleash and discover musical creativity on the Ethereum blockchain.
-
+- [Vuk](https://vuk-pwa.surge.sh) - An EPUB reader PWA built with Vue.
 ### Interactive Experiences
 
 - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
